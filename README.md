@@ -36,10 +36,12 @@ python main.py
 
 Just play around with it since you have nothing better to do. 
 
-## Fun Break
 
-Take a break and enjoy this cookie GIF:
 
-![Cookie GIF](https://giphy.com/stickers/chocolate-chips-neddiana-biskut-L3u3WyrmJXR5QtiDhL)
+And you read all the way here, so uhmmm...
+Here's a cookie for ignoring my dumbass: 
+
+![Your cookie](giphy-cookie.gif)
+
 
 Oh and star the repo I guess 🤷🏾‍♂️
